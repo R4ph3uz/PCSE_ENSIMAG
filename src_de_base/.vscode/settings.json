@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "tic_pit.h": "c",
+        "ecran.h": "c",
+        "inttypes.h": "c",
+        "process.h": "c",
+        "tinyalloc.h": "c",
+        "stdio.h": "c"
+    }
+}
